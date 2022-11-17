@@ -33,5 +33,17 @@ if szam2 > random1:
 if szam2 < random1:
     print("A szám kisebb mint a gondolt szám ")
 """
+#------------------------------------------------------------
+#CIKLUS
 
+#1Feladat
+"""
+for paros in range(11):
+    if paros % 2 ==  0:
+        print(paros)"""
 
+#2Feladat
+"""
+for x in range(1, 11):
+    x -=11
+    print(abs(x))"""
