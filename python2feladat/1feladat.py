@@ -22,6 +22,16 @@ else:
     print("A szám páratlan")     
 """
 #------------------------------------------------------------
-
+#3Feladat
+"""
+szam2 = int(input("Kérek egy számot: "))
+random1 = random.randint(1,5)
+if szam2 == random1:
+    print("A két szám egynelő:")
+if szam2 > random1:
+    print("A szám nagyobb mint a dondolt szám ")
+if szam2 < random1:
+    print("A szám kisebb mint a gondolt szám ")
+"""
 
 
